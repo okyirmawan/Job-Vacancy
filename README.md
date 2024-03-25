@@ -15,9 +15,9 @@ To get a local copy of the project up and running on your machine, follow these 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/okyirmawan/Job-Vacancy.git
 
-2. **Install Dependecy:**
+2. **Install Dependencies:**
 
    ```bash
    npm install
